@@ -12,9 +12,5 @@ The Bot will also send alerts to your Telegram group whenever a trade is execute
 ## Disclaimer
 
 This Trading Bot is for educational purposes only and should not be used for live trading without thorough testing and risk management. The developers are not responsible for any losses incurred by using this Trading Bot.
+
 This bot was only built to train myself in coding and trading using Python
-
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
